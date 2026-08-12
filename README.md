@@ -2,15 +2,15 @@
 
 # `> ROBOT_`
 
-### `Technical Monk • Software Engineer • Cybersecurity • Builder`
+### `Technically Human • Software Engineer • Cybersecurity • Builder • DEVOPS `
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=I+build+systems.;I+break+systems+to+understand+them.;I+turn+ideas+into+working+software.;Discipline+%3E+Motivation." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=build+systems.;break+systems+to+understand+them.;turn+ideas+into+working+software.;Discipline+%3E+Motivation." alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=00ff9c)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=NonLaHu\&style=for-the-badge\&color=00ff9c)
+![GitHub followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
 
 </div>
 
@@ -24,24 +24,24 @@
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  USER       → Robot                                          │
-│  ROLE       → Developer / Cybersecurity Student              │
-│  OS         → Linux                                           │
-│  MINDSET    → Engineer                                        │
-│  CURRENT    → Building + Learning + Experimenting             │
+│  ROLE       → Developer / Cybersecurity / DEVOPS Student     │
+│  OS         → Linux                                          │
+│  MINDSET    → Engineer                                       │
+│  CURRENT    → Building + Learning + Experimenting            │
 │                                                              │
-│  PRINCIPLE  → Understand the system.                          │
-│               Build the system.                               │
-│               Break the system.                               │
-│               Build it better.                                │
+│  PRINCIPLE  → Understand the system.                         │
+│               Build the system.                              │
+│               Break the system.                              │
+│               Build it better.                               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm an **Information Science & Technology student** who enjoys going deep into systems rather than just using them.
+I'm an **Information Science & Technology student** who enjoys going deep into systems rather than just using them. Currently a Uni-Student at UTYCC in Myanmar.
 
 My interests sit at the intersection of:
 
-**Software Engineering · Cybersecurity · Linux · AI/ML · Automation · Creative Technology**
+**Software Engineering · Cybersecurity · Linux · AI/ML · Automation · Creative Technology · DEVOPS**
 
 I like projects that force me to understand what's happening **under the abstraction**.
 
@@ -64,9 +64,8 @@ OBJECTIVES
 ✓ Master Linux
 ✓ Explore AI / Computer Vision
 ✓ Build things instead of only studying them
-□ Become dangerously competent
-□ Achieve financial freedom
-□ Maintain a calm mind under pressure
+□ Learn DEVOPS
+□ Win current on-going CTF
 ```
 
 > **Discipline is the operating system.**
@@ -79,7 +78,7 @@ OBJECTIVES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,php,java,html,css,bash,mysql" />
+<img src="https://skillicons.dev/icons?i=python,go,js,php,java,html,css,bash,mysql,c,flutter,docker,linux,bash" />
 
 </p>
 
@@ -87,7 +86,7 @@ OBJECTIVES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,flutter,git,github,linux,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,flutter,git,github,linux,vscode,django,springboot,vite" />
 
 </p>
 
@@ -103,6 +102,13 @@ OBJECTIVES
 
 </p>
 
+### CyberSecurity
+
+<p align="center">
+
+
+
+</p>
 ---
 
 ## `what_i_build`
@@ -146,15 +152,19 @@ Turning visual input into usable interaction.
 <tr>
 <td width="50%">
 
-### ⚙️ Backend / Systems
+### ⚙️ Backend / DEVOPS
 
 ```text
 Python
 Go
 FastAPI
+Django
 MySQL
+Docker
+Git
 Linux
-Automation
+Bash
+CI/CD
 ```
 
 I enjoy building deterministic systems that actually do something.
@@ -235,33 +245,13 @@ The idea:
 
 ---
 
-### 🛡️ Zero-Day Human
-
-A cybersecurity awareness project exploring **social engineering** through cinematic motion graphics.
-
-Core concept:
-
-```text
-STOP
-  ↓
-THINK
-  ↓
-VERIFY
-```
-
-Because sometimes the vulnerability isn't the software.
-
-**It's the human.**
-
----
-
 ## `github_stats`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NonLaHu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonLaHu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C" />
 
 </div>
 
@@ -269,7 +259,7 @@ Because sometimes the vulnerability isn't the software.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NonLaHu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 
 </div>
 
@@ -279,7 +269,7 @@ Because sometimes the vulnerability isn't the software.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NonLaHu&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -295,8 +285,8 @@ Because sometimes the vulnerability isn't the software.
 │  [03] Deep Learning                     │
 │  [04] Computer Vision                   │
 │  [05] Systems Programming               │
-│  [06] Japanese                           │
-│  [07] Linux / Infrastructure             │
+│  [06] DEVOPS                            │
+│  [07] Linux / Infrastructure            │
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -333,7 +323,7 @@ while alive:
 
 > **5. Make systems deterministic whenever possible.**
 
-> **6. Stay calm when things break.**
+> **6. Transcend to higher realm when things break.**
 
 ---
 
