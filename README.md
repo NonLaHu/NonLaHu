@@ -5,12 +5,6 @@
 ### `Technically Human • Cybersecurity • DevOps • Builder`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=build+systems.;break+systems+to+understand+them.;turn+ideas+into+working+software.;Discipline+%3E+Motivation." alt="Typing SVG" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NonLaHu\&style=for-the-badge\&color=00ff9c)
-![Followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
-
 </div>
 
 ---
@@ -18,8 +12,7 @@
 ## `whoami`
 
 ```text
-Naing Lin Htun
-Information Science & Technology @ UTYCC
+HUMAN with one head between shoulder variation
 
 FOCUS
 ├── Cybersecurity
@@ -76,24 +69,6 @@ Docker · Linux · Git · Automation · Backend
 
 ---
 
-## `projects`
-
-```text
-🏺 Gesture-Controlled Pottery
-   React · Three.js · MediaPipe
-
-🧠 Life Engine
-   Python · FastAPI · Scheduling
-
-🛡️ Zero-Day Human
-   Cybersecurity Awareness · Motion Graphics
-
-🔐 CTF / Security Labs
-   Web Security · Networking · Security Tooling
-```
-
----
-
 ## `side_quests`
 
 `♟ Chess` · `🎮 Game Dev` · `🎬 Editing` · `osu!`
@@ -126,30 +101,5 @@ CYBERSECURITY
 
 </div>
 
----
-
-## `philosophy`
-
-```python
-while alive:
-    learn()
-    build()
-    break_things()
-    understand_why()
-    fix()
-    repeat()
-```
-
-> **Discipline is the operating system.**
-
----
-
-<div align="center">
-
-`STATUS: ONLINE`
-
-**BUILD → BREAK → LEARN → REBUILD**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" />
 
-</div>
