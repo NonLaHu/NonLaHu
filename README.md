@@ -2,15 +2,15 @@
 
 # `> ROBOT_`
 
-### `Technically Human • Software Engineer • Cybersecurity • Builder • DEVOPS `
+### `Technically Human • Cybersecurity • DevOps • Builder`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=build+systems.;break+systems+to+understand+them.;turn+ideas+into+working+software.;Discipline+%3E+Motivation." alt="Typing SVG" />
 
-<br/>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NonLaHu\&style=for-the-badge\&color=00ff9c)
-![GitHub followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
+![GitHub Followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
 
 </div>
 
@@ -18,242 +18,208 @@
 
 ## `whoami`
 
+I'm **Naing Lin Htun**, an Information Science & Technology student at **UTYCC, Myanmar**.
+
+I'm primarily interested in **cybersecurity and systems**, with a growing focus on **DevOps and infrastructure**.
+
+I like understanding what happens beneath the abstraction — then building something with that knowledge.
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                       SYSTEM PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER       → Robot                                          │
-│  ROLE       → Developer / Cybersecurity / DEVOPS Student     │
-│  OS         → Linux                                          │
-│  MINDSET    → Engineer                                       │
-│  CURRENT    → Building + Learning + Experimenting            │
-│                                                              │
-│  PRINCIPLE  → Understand the system.                         │
-│               Build the system.                              │
-│               Break the system.                              │
-│               Build it better.                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+CYBERSECURITY
+      │
+      ├── Network Security
+      ├── Web Security
+      ├── CTF
+      └── Security Automation
+             │
+             ▼
+          DEVOPS
+             │
+      ├── Linux
+      ├── Docker
+      ├── Automation
+      └── Infrastructure
+             │
+             ▼
+          BUILDING
 ```
 
-I'm an **Information Science & Technology student** who enjoys going deep into systems rather than just using them. Currently a Uni-Student at UTYCC in Myanmar.
-
-My interests sit at the intersection of:
-
-**Software Engineering · Cybersecurity · Linux · AI/ML · Automation · Creative Technology · DEVOPS**
-
-I like projects that force me to understand what's happening **under the abstraction**.
+> **Build it. Break it. Understand it. Rebuild it.**
 
 ---
 
-## `./current_mission`
+## `current_mission`
 
-```bash
-$ cat mission.txt
+### Become a **Technical Monk**
 
-MISSION: Become a Technical Monk
+Not a monk who escapes technology.
 
+A monk who can sit in front of a broken system at 3 AM and remain calm.
+
+```text
 [████████████████░░░░] 80%
-
-OBJECTIVES
 
 ✓ Build software
 ✓ Understand systems
 ✓ Learn cybersecurity
-✓ Master Linux
-✓ Explore AI / Computer Vision
-✓ Build things instead of only studying them
-□ Learn DEVOPS
-□ Win current on-going CTF
+✓ Live comfortably in Linux
+✓ Build instead of only consuming
+✓ Enter CTFs
+→ Learn DevOps
+→ Deepen security knowledge
+→ Win a CTF
+→ Build serious infrastructure
 ```
 
 > **Discipline is the operating system.**
 
 ---
-## `Maing Tech_stack weapon`
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,docker,linux,bash,git,fastapi" />
-
-</p>
-
-## `tech_stack_used to do`
-
-### Languages
+## `primary_weapons`
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,js,php,java,html,css,bash,mysql,c,flutter,docker,linux,bash" />
-
-</p>
-
-### Frameworks / Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,flutter,git,github,linux,vscode,django,vite" />
-
-</p>
-
-### AI / Computer Vision
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br/>
-
-`MediaPipe` · `OpenCV` · `Deep Learning` · `Image Recognition`
-
-</p>
-
-### CyberSecurity
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,go,bash,linux,docker,git,mysql,fastapi,nix" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DVWA-111111?style=for-the-badge" />
+  <b>Python</b> · <b>Linux</b> · <b>Docker</b> · <b>Git</b> · <b>Backend</b> · <b>Automation</b>
 </p>
+
 ---
 
-## `what_i_build`
+## `technical_arsenal`
 
-<table>
-<tr>
-<td width="50%">
+| Domain                        | Technologies                                                         |
+| :---------------------------- | :------------------------------------------------------------------- |
+| 🛡️ **Cybersecurity**         | Nmap · Wireshark · Hydra · Aircrack-ng · DVWA · Web Security · CTF   |
+| ⚙️ **Backend / DevOps**       | Python · Go · FastAPI · Django · MySQL · Docker · Linux · Bash · Nix |
+| 💻 **Development**            | JavaScript · TypeScript · PHP · Java · C · HTML · CSS                |
+| 🧠 **AI / Computer Vision**   | PyTorch · TensorFlow · OpenCV · MediaPipe · Deep Learning            |
+| 🎨 **Creative / Interactive** | React · Next.js · Three.js · Vite · Flutter · Framer Motion          |
+| 🔧 **Tools**                  | GitHub · VS Code · Android Studio · FFmpeg · Aseprite · GameMaker    |
 
-### ⚔️ Cybersecurity
+---
+
+## `what_i_flex`
+
+### 🛡️ Cybersecurity
+
+I've entered **multiple CTFs** and actively explore:
 
 ```text
-Nmap
-Wireshark
 Web Security
-CTF
 Network Analysis
+Reconnaissance
+Vulnerability Research
+Security Tooling
 Security Automation
 ```
 
-I learn security by understanding how systems fail.
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI / Computer Vision
-
 ```text
-Image Classification
-Deep Learning
-Computer Vision
-Hand Tracking
-Gesture Recognition
+FIRST PLACE
+
+[░░░░░░░░░░] 0
+
+                    ...yet.
 ```
 
-Turning visual input into usable interaction.
+No podium yet.
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Backend / DEVOPS
-
-```text
-Python
-Go
-FastAPI
-Django
-MySQL
-Docker
-Git
-Linux
-Bash
-CI/CD
-```
-
-I enjoy building deterministic systems that actually do something.
-
-</td>
-
-<td width="50%">
-
-### 🎨 Creative Technology
-
-```text
-Three.js
-React
-Motion Graphics
-Interactive Experiences
-Game Development
-```
-
-Technology doesn't have to look boring.
-
-</td>
-</tr>
-</table>
+**Still hunting.**
 
 ---
 
-## `featured_projects`
+### 🐧 Linux
 
-### 🏺 Gesture-Controlled Pottery
-
-**React + Three.js + MediaPipe**
-
-A virtual pottery experience where hand gestures control the clay instead of traditional mouse interaction.
+Linux is more than an OS I use — it's where I like to work.
 
 ```text
-Camera
-   │
-   ▼
-MediaPipe
-   │
-   ▼
-Hand Landmarks
-   │
-   ▼
-Gesture Recognition
-   │
-   ▼
-Interaction Controller
-   │
-   ▼
-Three.js Pottery
+Arch Linux
+    │
+    └── 6+ months as daily driver
+                │
+                ▼
+             NixOS
+```
+
+I've switched distributions enough times that choosing an OS is becoming its own side quest.
+
+---
+
+### ⚙️ DevOps
+
+Currently moving deeper into **DevOps / infrastructure**.
+
+I'm interested in the complete lifecycle:
+
+```text
+CODE
+  ↓
+BUILD
+  ↓
+CONTAINER
+  ↓
+DEPLOY
+  ↓
+MONITOR
+  ↓
+AUTOMATE
+```
+
+Long-term direction:
+
+```text
+Cybersecurity + DevOps
+        ↓
+     DevSecOps
 ```
 
 ---
 
-### 🧠 Life Engine
+## `things_i_build`
 
-A deterministic personal scheduling system designed around:
+I don't really stay inside one domain.
+
+Some of the things I've worked with:
 
 ```text
-GOALS
-  ↓
-TASKS
-  ↓
-CONSTRAINTS
-  ↓
-ENERGY
-  ↓
-SCHEDULING
-  ↓
-EXECUTION
+Backend Systems
+        │
+        ├── APIs
+        ├── Automation
+        └── Databases
+
+AI / Computer Vision
+        │
+        ├── Image Classification
+        ├── Hand Tracking
+        └── Gesture Recognition
+
+Interactive Systems
+        │
+        ├── Three.js
+        ├── React
+        └── MediaPipe
+
+Creative
+        │
+        ├── Game Development
+        └── Video / Motion Editing
 ```
 
-The idea:
+If an idea is interesting enough:
 
-> Don't ask *"What do I feel like doing?"*
-> Ask *"What is NEXT?"*
+**I'll probably build it.**
+
+---
+
+## `side_quests`
+
+`♟ Chess` · `🎮 Game Development` · `🎬 Video Editing` · `osu!`
+
+These aren't the main quest.
+
+They're the things I do when I need to temporarily stop staring at a terminal.
 
 ---
 
@@ -267,7 +233,7 @@ The idea:
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -284,24 +250,6 @@ The idea:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NonLaHu&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
----
-
-## `currently_learning`
-
-```text
-┌─────────────────────────────────────────┐
-│                                         │
-│  [01] Cybersecurity                     │
-│  [02] Backend Engineering               │
-│  [03] Deep Learning                     │
-│  [04] Computer Vision                   │
-│  [05] Systems Programming               │
-│  [06] DEVOPS                            │
-│  [07] Linux / Infrastructure            │
-│                                         │
-└─────────────────────────────────────────┘
-```
 
 ---
 
@@ -323,37 +271,36 @@ while alive:
     repeat()
 ```
 
-### My rules
+### Rules
 
-> **1. Understand before abstracting.**
+**01 — Understand before abstracting.**
 
-> **2. Build before consuming another tutorial.**
+**02 — Build before consuming another tutorial.**
 
-> **3. Automate repetitive work.**
+**03 — Automate repetitive work.**
 
-> **4. Read the source when the abstraction stops making sense.**
+**04 — Read the source when the abstraction stops making sense.**
 
-> **5. Make systems deterministic whenever possible.**
+**05 — Stay calm when things break.**
 
-> **6. Transcend to higher realm when things break.**
+**06 — Transcend to a higher realm when things break.**
 
 ---
 
 ## `terminal`
 
 ```bash
-$ neofetch
+$ whoami
 
-        /\_/\\
-       ( o.o )
-        > ^ <
+robot
 
-OS:       Linux
-Shell:    zsh
-Editor:   VS Code
-Terminal: Kitty
-Focus:    Engineering
-Mode:     BUILD
+$ cat /etc/focus
+
+cybersecurity
+devops
+linux
+systems
+building
 
 $ echo $PHILOSOPHY
 
@@ -374,17 +321,13 @@ Build anyway."
 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:nainglintun50211@gmail.com)
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ### `STATUS: ONLINE`
 
-```text
-BUILD  →  BREAK  →  LEARN  →  REBUILD
-```
+`BUILD → BREAK → LEARN → REBUILD`
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=120&section=footer" />
 
