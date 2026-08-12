@@ -71,8 +71,14 @@ OBJECTIVES
 > **Discipline is the operating system.**
 
 ---
+## `Maing Tech_stack weapon`
+<p align="center">
 
-## `tech_stack`
+<img src="https://skillicons.dev/icons?i=python,js,bash,mysql,docker,linux,bash,git,fastapi" />
+
+</p>
+
+## `tech_stack_used to do`
 
 ### Languages
 
@@ -105,9 +111,15 @@ OBJECTIVES
 ### CyberSecurity
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,git,github" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DVWA-111111?style=for-the-badge" />
 </p>
 ---
 
