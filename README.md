@@ -9,8 +9,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NonLaHu\&style=for-the-badge\&color=00ff9c)
-![GitHub Followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/NonLaHu?style=for-the-badge\&color=00ff9c\&labelColor=0d1117)
 
 </div>
 
@@ -18,60 +17,19 @@
 
 ## `whoami`
 
-I'm **Naing Lin Htun**, an Information Science & Technology student at **UTYCC, Myanmar**.
-
-I'm primarily interested in **cybersecurity and systems**, with a growing focus on **DevOps and infrastructure**.
-
-I like understanding what happens beneath the abstraction — then building something with that knowledge.
-
 ```text
-CYBERSECURITY
-      │
-      ├── Network Security
-      ├── Web Security
-      ├── CTF
-      └── Security Automation
-             │
-             ▼
-          DEVOPS
-             │
-      ├── Linux
-      ├── Docker
-      ├── Automation
-      └── Infrastructure
-             │
-             ▼
-          BUILDING
+Naing Lin Htun
+Information Science & Technology @ UTYCC
+
+FOCUS
+├── Cybersecurity
+├── DevOps / Infrastructure
+├── Linux / Systems
+└── Software Engineering
+
+CURRENT
+└── Cybersecurity → DevOps → DevSecOps
 ```
-
-> **Build it. Break it. Understand it. Rebuild it.**
-
----
-
-## `current_mission`
-
-### Become a **Technical Monk**
-
-Not a monk who escapes technology.
-
-A monk who can sit in front of a broken system at 3 AM and remain calm.
-
-```text
-[████████████████░░░░] 80%
-
-✓ Build software
-✓ Understand systems
-✓ Learn cybersecurity
-✓ Live comfortably in Linux
-✓ Build instead of only consuming
-✓ Enter CTFs
-→ Learn DevOps
-→ Deepen security knowledge
-→ Win a CTF
-→ Build serious infrastructure
-```
-
-> **Discipline is the operating system.**
 
 ---
 
@@ -82,144 +40,79 @@ A monk who can sit in front of a broken system at 3 AM and remain calm.
 </p>
 
 <p align="center">
-  <b>Python</b> · <b>Linux</b> · <b>Docker</b> · <b>Git</b> · <b>Backend</b> · <b>Automation</b>
+  Python · Linux · Docker · Git · Backend · Automation
 </p>
 
 ---
 
 ## `technical_arsenal`
 
-| Domain                        | Technologies                                                         |
-| :---------------------------- | :------------------------------------------------------------------- |
-| 🛡️ **Cybersecurity**         | Nmap · Wireshark · Hydra · Aircrack-ng · DVWA · Web Security · CTF   |
-| ⚙️ **Backend / DevOps**       | Python · Go · FastAPI · Django · MySQL · Docker · Linux · Bash · Nix |
-| 💻 **Development**            | JavaScript · TypeScript · PHP · Java · C · HTML · CSS                |
-| 🧠 **AI / Computer Vision**   | PyTorch · TensorFlow · OpenCV · MediaPipe · Deep Learning            |
-| 🎨 **Creative / Interactive** | React · Next.js · Three.js · Vite · Flutter · Framer Motion          |
-| 🔧 **Tools**                  | GitHub · VS Code · Android Studio · FFmpeg · Aseprite · GameMaker    |
+| Domain             | Stack                                                  |
+| :----------------- | :----------------------------------------------------- |
+| 🛡️ **Security**   | Nmap · Wireshark · Hydra · Aircrack-ng · DVWA · CTF    |
+| ⚙️ **DevOps**      | Linux · Docker · Git · Bash · Nix · FastAPI · MySQL    |
+| 💻 **Development** | Python · Go · JavaScript · TypeScript · PHP · Java · C |
+| 🧠 **AI / CV**     | PyTorch · TensorFlow · OpenCV · MediaPipe              |
+| 🎨 **Creative**    | React · Next.js · Three.js · Vite · Flutter            |
 
 ---
 
-## `what_i_flex`
-
-### 🛡️ Cybersecurity
-
-I've entered **multiple CTFs** and actively explore:
+## `experience`
 
 ```text
-Web Security
-Network Analysis
-Reconnaissance
-Vulnerability Research
-Security Tooling
-Security Automation
-```
+🐧 LINUX
+Arch Linux ── 6+ months daily driver ──→ NixOS
 
-```text
-FIRST PLACE
+🛡️ CYBERSECURITY
+CTFs · Web Security · Network Analysis · Recon
+                         │
+                         └── First podium: PENDING
 
-[░░░░░░░░░░] 0
-
-                    ...yet.
-```
-
-No podium yet.
-
-**Still hunting.**
-
----
-
-### 🐧 Linux
-
-Linux is more than an OS I use — it's where I like to work.
-
-```text
-Arch Linux
-    │
-    └── 6+ months as daily driver
-                │
-                ▼
-             NixOS
-```
-
-I've switched distributions enough times that choosing an OS is becoming its own side quest.
-
----
-
-### ⚙️ DevOps
-
-Currently moving deeper into **DevOps / infrastructure**.
-
-I'm interested in the complete lifecycle:
-
-```text
-CODE
-  ↓
-BUILD
-  ↓
-CONTAINER
-  ↓
-DEPLOY
-  ↓
-MONITOR
-  ↓
-AUTOMATE
-```
-
-Long-term direction:
-
-```text
-Cybersecurity + DevOps
-        ↓
-     DevSecOps
+⚙️ DEVOPS
+Docker · Linux · Git · Automation · Backend
+                         │
+                         └── Current focus
 ```
 
 ---
 
-## `things_i_build`
-
-I don't really stay inside one domain.
-
-Some of the things I've worked with:
+## `projects`
 
 ```text
-Backend Systems
-        │
-        ├── APIs
-        ├── Automation
-        └── Databases
+🏺 Gesture-Controlled Pottery
+   React · Three.js · MediaPipe
 
-AI / Computer Vision
-        │
-        ├── Image Classification
-        ├── Hand Tracking
-        └── Gesture Recognition
+🧠 Life Engine
+   Python · FastAPI · Scheduling
 
-Interactive Systems
-        │
-        ├── Three.js
-        ├── React
-        └── MediaPipe
+🛡️ Zero-Day Human
+   Cybersecurity Awareness · Motion Graphics
 
-Creative
-        │
-        ├── Game Development
-        └── Video / Motion Editing
+🔐 CTF / Security Labs
+   Web Security · Networking · Security Tooling
 ```
-
-If an idea is interesting enough:
-
-**I'll probably build it.**
 
 ---
 
 ## `side_quests`
 
-`♟ Chess` · `🎮 Game Development` · `🎬 Video Editing` · `osu!`
+`♟ Chess` · `🎮 Game Dev` · `🎬 Editing` · `osu!`
 
-These aren't the main quest.
+---
 
-They're the things I do when I need to temporarily stop staring at a terminal.
+## `current_mission`
+
+```text
+CYBERSECURITY
+      ↓
+     DEVOPS
+      ↓
+ INFRASTRUCTURE
+      ↓
+  DEVSECOPS
+```
+
+`Build → Break → Learn → Automate`
 
 ---
 
@@ -233,102 +126,30 @@ They're the things I do when I need to temporarily stop staring at a terminal.
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NonLaHu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
-</div>
-
 ---
 
-## `activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NonLaHu&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `engineering_philosophy`
+## `philosophy`
 
 ```python
 while alive:
-
     learn()
-
     build()
-
     break_things()
-
     understand_why()
-
     fix()
-
     repeat()
 ```
 
-### Rules
-
-**01 — Understand before abstracting.**
-
-**02 — Build before consuming another tutorial.**
-
-**03 — Automate repetitive work.**
-
-**04 — Read the source when the abstraction stops making sense.**
-
-**05 — Stay calm when things break.**
-
-**06 — Transcend to a higher realm when things break.**
+> **Discipline is the operating system.**
 
 ---
-
-## `terminal`
-
-```bash
-$ whoami
-
-robot
-
-$ cat /etc/focus
-
-cybersecurity
-devops
-linux
-systems
-building
-
-$ echo $PHILOSOPHY
-
-"Control what you can.
-Understand what you can't.
-Build anyway."
-```
-
----
-
-## `connect`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NonLaHu)
+`STATUS: ONLINE`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://linkedin.com/in/nainglinhtun)
+**BUILD → BREAK → LEARN → REBUILD**
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:nainglintun50211@gmail.com)
-
-<br>
-
-### `STATUS: ONLINE`
-
-`BUILD → BREAK → LEARN → REBUILD`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" />
 
 </div>
