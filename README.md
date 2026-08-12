@@ -92,7 +92,7 @@ OBJECTIVES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,flutter,git,github,linux,vscode,django,springboot,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,flutter,git,github,linux,vscode,django,vite" />
 
 </p>
 
