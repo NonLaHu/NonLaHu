@@ -71,7 +71,7 @@ Docker · Linux · Git · Automation · Backend
 
 ## `side_quests`
 
-`♟ Chess` · `🎮 Game Dev` · `🎬 Editing` · `osu!`
+`♟ Chess` · `🎮 Game Dev` · `🎬 Editing` · `osu!!!`
 
 ---
 
