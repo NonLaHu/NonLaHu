@@ -54,7 +54,7 @@ CURRENT
 
 ```text
 🐧 LINUX
-Arch Linux ── 6+ months daily driver ──→ NixOS
+Arch Linux current daily driver. NixOS experienced.
 
 🛡️ CYBERSECURITY
 CTFs · Web Security · Network Analysis · Recon
