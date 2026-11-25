@@ -41,7 +41,6 @@ An open-source anime streaming and offline downloading application built entirel
 - **Resilient Networking:** Dynamic HTTP header injection (`Referer`, `User-Agent`, `Origin`) across both `Dio` requests and `media_kit` streams, paired with automatic source and quality fallback recovery.
 - **On-Device Architecture:** Modular on-device HTML scraping (`Riverpod` state management), offline episode downloads, and local watch-history persistence.
 
----
 
 ### 2. [`Digital Studio`](https://github.com/NonLaHu/clayPotThreeDemo)
 `Three.js` · `MediaPipe Tasks Vision` · `WebGL` · `Vite` · `Docker`
@@ -52,7 +51,6 @@ An interactive 3D pottery and digital craft studio built with **Three.js** and *
 - **Vertex, Color & Pattern Engines:** Real-time vertex deformation on a `THREE.LatheGeometry` mesh, a hand-angle sunflower color selector with per-vertex gradient ring painting, and a `2048×2048` canvas pattern stamping engine with rotary selection and undo history.
 - **Measurement, QR Sharing & 3D Export:** Live physical dimension readouts (`cm` / `in`), printable exhibition posters, local booth persistence (`/api/saves`) with QR save/restore, a standalone `/s/:id` 3D viewer, and binary **GLB** export via `GLTFExporter`.
 
----
 
 ### 3. [`audvis`](https://github.com/NonLaHu/audvis)
 `JavaScript` · `Web Audio API` · `HTML5 Canvas 2D` · `MediaRecorder` · `MIT License`
