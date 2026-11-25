@@ -19,7 +19,7 @@
 ```text
 USER      : Naing Lin Htun (@NonLaHu)
 ROLE      : Software Engineer in Progress · Backend · Systems & Reverse Engineering
-OS        : Linux (Primary — Arch Linux / NixOS) · Windows
+OS        : Linux (Primary) · Windows
 ```
 
 I'm a <!-- AGE:START -->21<!-- AGE:END -->-year-old software developer who enjoys understanding how software works beneath the surface — from core runtime mechanics to backend architecture and distributed systems.
